@@ -10,8 +10,4 @@
 
 ### repos I worked on:
 ![](https://github-contributor-stats.vercel.app/api?username=banoq&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
-heme=material-palenight&combine_all_yearly_contributions=true)
 
-https://gprm.itsvg.in ) -->ibutor-stats.vercel.app/api?username=banoq&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
